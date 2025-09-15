@@ -1,16 +1,23 @@
-## Hi there 👋
+# Привет! Я iOS-разработчик 👋
 
-<!--
-**webdmitriev/webdmitriev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swiftui&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=uikit&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-007AFF?style=for-the-badge&logo=combine&logoColor=white)
+![CoreData](https://img.shields.io/badge/CoreData-007AFF?style=for-the-badge&logo=coredata&logoColor=white)
 
-Here are some ideas to get you started:
+## 📊 Статистика
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=твоё_имя&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=твоё_имя&layout=compact&theme=radical&hide_border=true&langs_count=6)
+
+## 🚀 Проекты
+
+- [📍 Мой MapKit-приложение](https://github.com/твоё_имя/my-map-app) — Кастомные иконки, маршруты
+- [📱 SwiftUI Weather App](https://github.com/твоё_имя/weather-app) — Combine, API, CoreData
+- [🗺️ Route Planner](https://github.com/твоё_имя/route-planner) — MKDirections, polyline
+
+> Все проекты — на Swift + SwiftUI.  
+> Пишите мне, если хотите посмотреть исходники!
