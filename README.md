@@ -10,14 +10,14 @@
 
 ## 📊 Статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=твоё_имя&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=твоё_имя&layout=compact&theme=radical&hide_border=true&langs_count=6)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=webdmitriev&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webdmitriev&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
 ## 🚀 Проекты
 
-- [📍 Мой MapKit-приложение](https://github.com/твоё_имя/my-map-app) — Кастомные иконки, маршруты
-- [📱 SwiftUI Weather App](https://github.com/твоё_имя/weather-app) — Combine, API, CoreData
-- [🗺️ Route Planner](https://github.com/твоё_имя/route-planner) — MKDirections, polyline
+- [📍 Мой MapKit-приложение](https://github.com/webdmitriev/my-map-app) — Кастомные иконки, маршруты
+- [📱 SwiftUI Weather App](https://github.com/webdmitriev/weather-app) — Combine, API, CoreData
+- [🗺️ Route Planner](https://github.com/webdmitriev/route-planner) — MKDirections, polyline
 
 > Все проекты — на Swift + SwiftUI.  
 > Пишите мне, если хотите посмотреть исходники!
