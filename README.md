@@ -19,6 +19,7 @@
 - [📍 Boholano](https://github.com/webdmitriev/BoholanoSUI) — SwiftUI + CoreLocation, карта с кастомными аннотациями, работа с API и мультимодульной структурой.
 - [📱 Приложение “Погода”](https://github.com/webdmitriev/systeams-weather-sui) — Combine, API, Clean Architecture, интеграция WeatherAPI, отображение прогноза по часам, оптимизация фоновой работы.
 - [🗺️ TopPizza](https://github.com/webdmitriev/TopPizza) — SwiftUI, MVP, онбординг, авторизация, работа с серверными данными.
+- [😎 AIGeneration](https://github.com/webdmitriev/AIGeneration) — SwiftUI, CleanArchitecture, Combine, Ai stability, (image-to-image / text-to-image / text-image-to-image), История запросов, Добавлены категории для генерации картинок
 
 > Все проекты — на Swift + UIKit, SwiftUI.
 > А так же часть проектов по frontand разработке + wordpress (сторонний опыт 8 лет разработки, перед переходом на swift).
