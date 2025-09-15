@@ -15,9 +15,10 @@
 
 ## 🚀 Проекты
 
-- [📍 Мой MapKit-приложение](https://github.com/webdmitriev/my-map-app) — Кастомные иконки, маршруты
-- [📱 SwiftUI Weather App](https://github.com/webdmitriev/weather-app) — Combine, API, CoreData
-- [🗺️ Route Planner](https://github.com/webdmitriev/route-planner) — MKDirections, polyline
+- [📍 Your Sweet & Dream Place](https://github.com/webdmitriev/dream-place-uikit) — UIKit, VIPER, Combine, добавление в избранное, поиск по карте, построение маршрутов, CoreData
+- [📍 Boholano](https://github.com/webdmitriev/BoholanoSUI) — SwiftUI + CoreLocation, карта с кастомными аннотациями, работа с API и мультимодульной структурой.
+- [📱 Приложение “Погода”](https://github.com/webdmitriev/systeams-weather-sui) — Combine, API, Clean Architecture, интеграция WeatherAPI, отображение прогноза по часам, оптимизация фоновой работы.
+- [🗺️ TopPizza](https://github.com/webdmitriev/TopPizza) — SwiftUI, MVP, онбординг, авторизация, работа с серверными данными.
 
 > Все проекты — на Swift + SwiftUI.  
 > Пишите мне, если хотите посмотреть исходники!
