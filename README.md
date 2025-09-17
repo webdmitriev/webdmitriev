@@ -11,7 +11,7 @@
 ## 📊 Статистика
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=webdmitriev&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webdmitriev&layout=compact&theme=radical&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webdmitriev&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ## 🚀 Проекты
 
