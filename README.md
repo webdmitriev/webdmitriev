@@ -1,4 +1,4 @@
-# Привет! Я iOS-разработчик 👋
+# Hi! I'm iOS (Frontend / Wordpress) - developer 👋
 
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
