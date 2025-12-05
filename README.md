@@ -25,7 +25,7 @@
 > А так же часть проектов по frontand разработке + wordpress (сторонний опыт 9 лет разработки, перед переходом на swift).
 > Пишите мне, если хотите посмотреть больше!
 
-## 📬 Связаться со мной 
+## 📬 Связаться со мной! 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:webdmitriev@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/webdmitriev)
