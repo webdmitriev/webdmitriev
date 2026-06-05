@@ -22,7 +22,7 @@
 - [😎 AIGeneration](https://github.com/webdmitriev/AIGeneration) — SwiftUI, CleanArchitecture, Combine, Ai stability, (image-to-image / text-to-image / text-image-to-image), История запросов, Добавлены категории для генерации картинок
 
 > Все проекты — на Swift + UIKit, SwiftUI.
-> А так же часть проектов по frontand разработке + wordpress (сторонний опыт 9 лет разработки, перед переходом на swift).
+> А так же часть проектов по frontand разработке + wordpress (сторонний опыт 11 лет разработки, перед переходом на swift).
 > Пишите мне, если хотите посмотреть больше!
 
 ## 📬 Связаться со мной! 
